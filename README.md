@@ -14,3 +14,4 @@ Key Features:
 - *Integration:* Seamlessly integrate with wearable devices like fitness trackers or smartwatches to sync health data.
 
 With a user-friendly interface and intuitive design, the Health Tracker App makes it easy for users to stay motivated and committed to their health journey.
+submit50 cs50/problems/2024/x/project
