@@ -15,3 +15,5 @@ Key Features:
 
 With a user-friendly interface and intuitive design, the Health Tracker App makes it easy for users to stay motivated and committed to their health journey.
 submit50 cs50/problems/2024/x/project
+submit50 slug
+https://cs50.readthedocs.io/submit50/#submit50
